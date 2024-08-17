@@ -6,7 +6,7 @@ Bu repo, Swift dilini derinlemesine öğrenme sürecimi belgelemektedir. Swift v
 
 ### Swift Learning Path
 
-| Bölüm                             | İçerik                                                                                                              |
+| Bölüm                             | Paylaşılacak İçerik                                                                                                              |
 |-----------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | **Temel Kavramlar**               | - Swift diline genel bakış<br>- Ortam kurulumu ve araçlar<br>- Swift Playgrounds ile tanışma                                                              |
 | **Veri Türleri ve Değişkenler**   | - Temel veri tipleri (Int, Float, String, vb.)<br>- Değişkenler, sabitler ve tip güvenliği                                                               |
