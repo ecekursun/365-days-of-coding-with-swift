@@ -14,3 +14,4 @@ Bu repo, Swift dilini derinlemesine öğrenme sürecimi belgelemektedir. Swift v
 | **Fonksiyonlar ve Parametreler**  | - Fonksiyon tanımlama ve çağırma<br>- Parametreler ve geri dönüş değerleri<br>- Fonksiyonlar içinde fonksiyonlar                                      |
 | **Koleksiyonlar ve Diziler**      | - Array, Set, Dictionary kullanımı<br>- Koleksiyonlar üzerinde arama, ekleme ve çıkarma işlemleri                                                       |
 | **Opsiyoneller ve Hata Yönetimi** | - Opsiyoneller ve nil kontrolü<br>- Unwrapping ve opsiyonel zincirleme<br>- Hata yönetimi (try-catch)                                                 |
+Design Patterns
