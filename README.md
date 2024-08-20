@@ -2,7 +2,8 @@
 
 ## 365 Days of Swift Mastery
 
-Bu repo, Swift dilini derinlemesine öğrenme sürecimi belgelemektedir. Swift ve SwiftUI ile geliştirdiğim projeler ve öğrendiklerimi burada paylaşacağım. İçerik sürekli güncellenecektir. Takipte kalabilirsiniz.
+Bu repo, Swift dilini derinlemesine öğrenme sürecimi belgelemektedir. Swift ve SwiftUI ile geliştirdiğim projeler ve öğrendiklerimi burada paylaşacağım. İçerik sürekli güncellenecektir. Takipte kalabilirsiniz.<br/>
+Takip ettiğim kurslar --> Angela Yu Swift
 
 ### Swift Learning Path
 
