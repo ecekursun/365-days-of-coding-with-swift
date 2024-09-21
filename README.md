@@ -3,7 +3,7 @@
 ## 365 Days of Swift Mastery
 
 Bu repo, Swift dilini derinlemesine öğrenme sürecimi belgelemektedir. Swift, UIKit ve SwiftUI ile geliştirdiğim projeler ve öğrendiklerimi burada paylaşacağım. İçerik sürekli güncellenecektir. Takipte kalabilirsiniz.<br/>
-Takip ettiğim kurslar --> Angela Yu Swift, hacking swift, kodeco, https://www.udacity.com/course/data-structures-and-algorithms-in-swift--ud1011
+Takip ettiğim kurslar --> Angela Yu Swift, hacking swift, kodeco, https://www.udacity.com/course/data-structures-and-algorithms-in-swift--ud1011, https://developer.apple.com/
 
 ### Swift Learning Path
 
