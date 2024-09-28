@@ -4,8 +4,8 @@
 
 Bu repo, Swift dilini derinlemesine öğrenme sürecimi belgelemektedir. Swift, UIKit ve SwiftUI ile geliştirdiğim projeler ve öğrendiklerimi burada paylaşacağım. İçerik sürekli güncellenecektir. Takipte kalabilirsiniz.<br/>
 Takip ettiğim kurslar --> Angela Yu Swift, kodeco, https://www.udacity.com/course/data-structures-and-algorithms-in-swift--ud1011, https://developer.apple.com/, Kasım Adalan Udemy Swift kursu <br/>
-To do list <br/>
-1. var olan kodlar swift basics, UIKit ve SwiftUI olarak ayrı dosyalara eklenecek.
+To do list : <br/>
+1. var olan kodlar swift basics, UIKit ve SwiftUI olarak ayrı dosyalara eklenecek. <br/>
 
 ### Swift Learning Path
 
